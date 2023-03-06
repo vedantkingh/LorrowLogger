@@ -105,6 +105,7 @@ public class MainActivity2 extends AppCompatActivity {
                     giveortake.setText("to be taken from");
                 }
                 totalamnt.setText(tot.toString());
+                transacs.notify();
                 dialog.dismiss();
             }
         });

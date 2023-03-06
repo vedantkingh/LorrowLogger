@@ -110,6 +110,7 @@ public class MainActivity extends AppCompatActivity {
                 mydb.insertData(nameforarr);
                 mydb.CreateNameAccount(nameforarr);
                 arr.add(nameforarr);
+                arr.notify();
                 dialog.dismiss();
             }
         });
