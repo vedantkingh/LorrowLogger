@@ -1,5 +1,5 @@
 # LorrowLogger
-LorrowLogger (Lend Borrow Logger) is an Android application which 
+LorrowLogger (<ins>L</ins>end B<ins>orrow</ins> <ins>Logger</ins>) is an Android application which 
 allows users to log their financial transactions with their friends, family, colleagues 
 or any other acquaintances. It makes it easier for the users to keep a tab on their 
 transactions with people, whether they lend/give money to or borrow/take money 
