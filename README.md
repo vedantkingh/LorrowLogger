@@ -26,8 +26,7 @@ LorrowLogger supports only on Android devices with API SDK(Android
 version) Android API 21 i.e Android 5 (Lollipop) or higher. The target SDK (i.e 
 the version for which the developers are actually developing their application) is 
 Android API 32 i.e Android 12 (SnowCone). LorrowLogger is developed using 
-Android Studio Chipmunk. It is developed mainly using XML for front-end 
-and Java for back-end.
+Android Studio Chipmunk. It is developed using Java.
 ## Target Audience
 * **Age group:** 13+
 * **Lifestyle choices:** Any
